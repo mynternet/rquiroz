@@ -16,5 +16,5 @@
 | alias   | Listar los alias |
 
 # Estos son los alias
-alias ll='ls -alF'
-alias count='find . -type f | wc -l'
+## alias ll='ls -alF'
+## alias count='find . -type f | wc -l'
