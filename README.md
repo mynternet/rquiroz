@@ -1,4 +1,21 @@
 # rquiroz
+# Perfil
+
+Soy un estudiante entusiasta de un bootcamp de programación, apasionado por el aprendizaje y la resolución de problemas. Estoy enfocado en desarrollar mis habilidades de programación para convertirme en un desarrollador web full-stack altamente capacitado.
+
+# Educación
+
+- Bootcamp de Programación Full-Stack, con Guillermo Rodas
+
+# Habilidades Técnicas
+
+- Lenguajes de programación: HTML, CSS, JavaScript, Python, Java
+- Herramientas y tecnologías: Git, React, Node.js, MongoDB, MySQL
+
+# Proyectos Destacados
+
+- Proyecto 1: Pendiente
+
 **Configuracion del ambiente de desarrollo (prework)**
 1. Instalar git
 2. Configuraion llaves SSH
