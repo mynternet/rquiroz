@@ -16,4 +16,5 @@
 | alias   | Listar los alias |
 
 # Estos son los alias
-mostused=``
+alias ll='ls -alF'
+alias count='find . -type f | wc -l'
